@@ -24,13 +24,13 @@ Computer Science graduate seeking a full-time opportunity to apply programming, 
 
 ## Projects
 
-### Stock Market Prediction Using Machine Learning
+### [Stock Market Prediction Using Machine Learning](https://github.com/arunrajpost-ops/Stock-market-analysis)
 **Tech:** Python, Pandas, NumPy, Scikit-learn  
 - Collected and preprocessed historical stock market data  
 - Built machine learning models to predict stock price trends  
 - Evaluated model performance using visualization techniques  
 
-### AI Virtual Mouse
+### [AI Virtual Mouse](https://github.com/arunrajpost-ops/AI-Virtual-Mouse-with-Custom-Gesture-Support--Hand-Control-Movement)
 **Tech:** Python, OpenCV, MediaPipe  
 - Developed a gesture-controlled virtual mouse  
 - Implemented real-time cursor movement and click actions  
