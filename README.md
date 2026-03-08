@@ -3,7 +3,7 @@
 📍 Hyderabad, India  
 📧 arunrajpost@gmail.com  
 📞 +91 7013504015  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/arun-raj-80a2a0355/) | [GitHub](https://github.com/arunrajpost-ops)
 
 ---
 
@@ -26,21 +26,21 @@ Computer Science graduate seeking a full-time opportunity to apply programming, 
 
 ### Stock Market Prediction Using Machine Learning
 **Tech:** Python, Pandas, NumPy, Scikit-learn  
-- Collected and preprocessed historical stock market data.  
-- Built machine learning models to predict stock price trends.  
-- Evaluated model performance using visualization techniques.
+- Collected and preprocessed historical stock market data  
+- Built machine learning models to predict stock price trends  
+- Evaluated model performance using visualization techniques  
 
 ### AI Virtual Mouse
 **Tech:** Python, OpenCV, MediaPipe  
-- Developed a gesture-controlled virtual mouse.  
-- Implemented real-time cursor movement and click actions.  
-- Optimized hand tracking accuracy.
+- Developed a gesture-controlled virtual mouse  
+- Implemented real-time cursor movement and click actions  
+- Optimized hand tracking accuracy  
 
 ### EduCounselor – ML-Based Web Chatbot for JEE College Prediction
 **Tech:** Python, Flask, PostgreSQL, Random Forest, XGBoost  
-- Designed ML-based chatbot for college recommendations.  
-- Trained models using rank-based datasets.  
-- Integrated backend and frontend components.
+- Designed ML-based chatbot for college recommendations  
+- Trained models using rank-based datasets  
+- Integrated backend and frontend components  
 
 ---
 
