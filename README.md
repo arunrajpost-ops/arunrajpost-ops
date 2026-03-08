@@ -15,7 +15,7 @@ Computer Science graduate seeking a full-time opportunity to apply programming, 
 ## Skills
 
 **Programming:** Python, JavaScript  
-**Core CS:** Data Structures, Algorithms, Software Engineering  
+**Core CS:** Algorithms, Software Engineering  
 **Web:** HTML, CSS, Django  
 **Data & ML:** SQL, Machine Learning, Deep Learning, NLP  
 **Tools:** AWS, Docker, Pandas, NumPy  
